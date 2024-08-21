@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Experience	</title>
-	<atom:link href="/index.php/experience/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="//iceypotato.github.io/portfolio/index.php/experience/feed/" rel="self" type="application/rss+xml" />
+	<link>//iceypotato.github.io/portfolio/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Aug 2024 20:50:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
